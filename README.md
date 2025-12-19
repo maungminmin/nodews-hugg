@@ -11,7 +11,7 @@ Hugging Face video tutorial link: https://youtu.be/XERxg9AODeo
 ```
 FROM ghcr.io/githubusername/mirrorname:latest
 
-ENV DOMAIN=space域名
+ENV DOMAIN=space domain name
 ```
 
 * PaaS Platform environment variables
